@@ -12,6 +12,5 @@ const task04 = () => {
     counterValue -= 1;
     displayedValue.textContent = counterValue;
   });
-
-} 
+};
 task04();
